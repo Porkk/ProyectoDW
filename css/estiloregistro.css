@@ -1,0 +1,14 @@
+body{
+    background-image: url("fondos/fondo2.jpg");
+    text-align: center;
+}
+
+img{
+    margin-top: 50px;
+}
+
+form{
+    margin-top: 50px;
+    background: rgb(235, 170, 252);
+    border: 40px solid rgb(235, 170, 252);
+}

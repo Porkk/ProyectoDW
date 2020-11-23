@@ -1,0 +1,13 @@
+body{
+    background-image: url("fondos/fondo3.jpg");
+}
+
+form{
+    background: white;
+    border: 60px solid white;
+    margin-top: 30px;
+}
+
+img{
+    margin-top: 80px;
+}

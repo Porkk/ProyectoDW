@@ -1,0 +1,9 @@
+body{
+    background-image: url("fondos/fondo1.jpg");
+    text-align: center;
+}
+
+h1, h4{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
